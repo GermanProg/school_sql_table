@@ -1,0 +1,29 @@
+--SELECT * FROM customers
+--WHERE city = 'Москва'
+--SELECT * FROM customers
+--WHERE email_address Like '%@gmail.com'
+--SELECT * FROM products
+--WHERE stock_quantity BETWEEN 10 <= stock_quantity and stock_quantity <= 30
+--SELECT * FROM customers
+--WHERE city = 'Казань'
+--SELECT * FROM customers
+--WHERE city = 'Самара'
+--SELECT * FROM customers
+--WHERE city = 'Екатеринбург'
+--SELECT * FROM customers
+--WHERE city = 'Пермь'
+-- SELECT * FROM customers
+--WHERE city = 'Москва' AND name = 'Ольга Лебедева'
+--SELECT * FROM customers
+--WHERE city = 'Воронеж' AND name = 'Павел Федоров'
+--SELECT DISTINCT brand_name FROM products
+--SELECT * FROM products
+--WHERE brand_name IN ('Canon')
+--SELECT * FROM products
+--WHERE item_name IS NULL
+--SELECT brand_name FROM products ORDER BY item_name
+--SELECT DISTINCT price_usd ,category FROM products
+--ORDER BY price_usd , category DESC
+--SELECT category FROM products
+--GROUP BY category
+--SELECT * FROM products

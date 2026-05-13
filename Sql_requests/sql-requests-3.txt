@@ -1,0 +1,41 @@
+--SELECT stock_quantity FROM products 
+--WHERE stock_quantity BETWEEN 20 AND 40
+--SELECT price_usd FROM products 
+--WHERE price_usd BETWEEN 399 AND 999
+--SELECT is_available FROM products 
+--WHERE is_available BETWEEN 1 AND 5
+--SELECT stock_quantity FROM products 
+--WHERE stock_quantity BETWEEN 20 and 80
+--SELECT price_usd FROM products 
+--WHERE price_usd BETWEEN 399 and 2499
+
+--SELECT * FROM products 
+--where brand_name = 'Apple' and price_usd = 999.99
+--SELECT * FROM products 
+--where brand_name = 'Samsung' and price_usd = 899.99
+--SELECT * FROM products 
+--where brand_name = 'Dell' and stock_quantity = 30
+--SELECT * FROM products 
+--where brand_name = 'Dell' or stock_quantity = 30
+--SELECT * FROM products 
+--where brand_name = 'Samsung' or price_usd = 899.99
+--SELECT * FROM products 
+--where brand_name = 'Apple' or price_usd = 999.99
+--SELECT * FROM products 
+--where NOT brand_name = 'Sony'
+--SELECT * FROM products 
+--where not price_usd = 899.99
+--SELECT * FROM products 
+--where not brand_name = 'Dell' 
+--SELECT * FROM products 
+--WHERE brand_name IS NULL
+--SELECT brand_name FROM products 
+--where NOT brand_name  IS NULL
+--SELECT stock_quantity FROM products 
+--where  not stock_quantity is null
+--SELECT * FROM products 
+--where item_name is NULL
+--SELECT * FROM products 
+--WHERE category IS NULL 
+--SELECT * FROM products 
+--WHERE NOT price_usd is NULL
